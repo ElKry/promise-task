@@ -1,4 +1,4 @@
-// Реализовать функцию которая должена падать,
+// Реализовать функцию которая должна падать,
 // с ошибкой new Error("timeout")
 // если promise не выполняется за timeout
 function timeoutedPromise(promise, timeout) {
